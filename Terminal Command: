@@ -1,0 +1,4 @@
+npx create-next-app@latest supreme-nexusforge-nextjs --typescript --tailwind --eslint --app --yes
+cd supreme-nexusforge-nextjs
+npm install framer-motion @react-three/fiber @react-three/drei three lucide-react
+npm install -D @types/three
