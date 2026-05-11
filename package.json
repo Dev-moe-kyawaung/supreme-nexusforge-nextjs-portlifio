@@ -9,7 +9,7 @@
   "dependencies": {
     "framer-motion": "^11.5.0",
     "lucide-react": "^0.441.0",
-    "next": "15.0.0",
+    "next": "15.5.18",
     "react": "19.0.0-rc",
     "react-dom": "19.0.0-rc",
     "@react-three/fiber": "^8.17.0",
